@@ -169,7 +169,7 @@ margin: 25px 20px;
 SERVICES SECTION STYLES
 ============================================================ */
 
-#services .services-wrapper {
+#features .services-wrapper {
 padding: 20px;
 border-radius: 5px;
 -moz-border-radius: 5px;
@@ -184,15 +184,15 @@ transition: all 0.5s ease-in-out;
 height: 21em;
 }
 
-#services .services-wrapper:hover {
+#features .services-wrapper:hover {
 background-color: rgba(255, 255, 255, 0.20);
 }
 
-#services h3 {
+#features h3 {
 font-family: 'Oswald', sans-serif;
 }
 
-#services .services-wrapper i {
+#features .services-wrapper i {
 margin: 5px;
 color: rgb(57, 171, 111);
 font-size: 60px;
